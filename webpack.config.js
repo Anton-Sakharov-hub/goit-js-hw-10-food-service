@@ -9,7 +9,7 @@ module.exports = {
   output: {
     filename: 'my-bundle.js',
     path: path.resolve(__dirname),
-    publicPath: 'goit-js-hw-10-food-service/'
+    // publicPath: 'goit-js-hw-10-food-service/'
   },
 
   module: {
