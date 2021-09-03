@@ -9,7 +9,7 @@ module.exports = {
   output: {
     filename: 'my-bundle.js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: 'https://anton-sakharov-hub.github.io/goit-js-hw-10-food-service/'
+    publicPath: 'https://anton-sakharov-hub.github.io/goit-js-hw-10-food-service/src'
   },
 
   module: {
