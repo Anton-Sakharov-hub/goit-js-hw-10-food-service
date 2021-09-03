@@ -8,8 +8,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     filename: 'my-bundle.js',
-    path: path.resolve(__dirname, 'dist'),
-    publicPath: 'https://anton-sakharov-hub.github.io/goit-js-hw-10-food-service/src'
+    path: path.resolve(__dirname),
+    publicPath: 'goit-js-hw-10-food-service/'
   },
 
   module: {
